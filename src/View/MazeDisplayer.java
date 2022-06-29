@@ -54,6 +54,7 @@ public class MazeDisplayer extends Canvas {
         this.imageFileNameWall.set(imageFileNameWall);
     }
 
+
     public String getImageFileNamePlayer() {
         return imageFileNamePlayer.get();
     }
